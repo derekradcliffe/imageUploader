@@ -1,0 +1,14 @@
+uploads/*
+!uploads/.gitkeep
+uploads/
+
+# IDE specific
+.vscode/
+.idea/
+
+# System specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
